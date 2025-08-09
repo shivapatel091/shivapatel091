@@ -18,7 +18,7 @@
 - 📝 I regulary write technical articles for [Medium](https://medium.com/@shivapatel9452193990/)
 - 💻 I use daily: **.java**, **.py**, **.sql**, **.tsx**
 - 📖 I am currently reading **God of Small Things** by Arundhati Roy
-- 💬 Talk to me about cricket, finance and some cool business idead.
+- 💬 Talk to me about cricket, finance and some cool business ideas.
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
